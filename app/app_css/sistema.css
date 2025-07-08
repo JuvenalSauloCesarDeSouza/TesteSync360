@@ -1,0 +1,134 @@
+﻿/* tags */
+a{
+	color: #757575;
+	text-decoration:none;
+}
+
+body{
+	background-color: #f2f2f2;
+	color: #757575;
+	font-size: 12px; 
+	font-family: Verdana; 
+	margin: 0; 
+	padding: 0; 
+	overflow-x: hidden;
+}
+
+button{
+	
+}
+
+fieldset{
+	border: solid 1px #c0c0c0;	
+}
+
+legend{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* formularios */
+.input_text_1{
+	width: 100%;
+} 
+
+.select_1{
+	width: 100%;
+} 
+
+.text_area_1{
+	width: 100%;
+} 
+
+
+/* tabelas */
+.tb_li{
+	
+	width: 100%;	
+}
+
+.tb_li tr td{
+	
+	
+}
+
+/* elementos do sistema */
+/* Cabecalho */
+.div0_cabecalho{
+	background-color: #dfdfdf;
+	display: table;
+	padding: 0 0 0 0;
+	width: 100%;
+}
+
+.div1_cabecalho{
+	float: left;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 10px 0 10px 10px;
+	width: 35%;
+}
+
+.div2_cabecalho{
+	float: right;
+	padding: 0 10px 0 0;
+	width: 60%;	
+}
+
+/* Menu */
+.div0_menu{
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 0 0 0;
+	padding: 28px 0 0 0;
+	text-align: right;
+	width: 100%;
+}
+
+.div1_menu{
+	
+}
+
+.div2_menu{
+	
+	
+}
+
+.div3_menu{
+	
+}
+
+/* Corpo */
+.div0_corpo{
+	width: 100%;
+}
+
+.div1_corpo{
+	
+}
+
+/* Rodape */
+.div0_rodape{
+	
+}
+
+.div1_rodape{
+	
+}
+
+.div2_rodape{
+	
+}
+
+.div3_rodape{
+	
+}
+
+/* paginas do sistema */
+/* inicio */
+.div0_inicio{
+	font-size: 32px;
+	padding: 15% 0 0 0;
+	text-align: center;
+	width: 100%;
+}
