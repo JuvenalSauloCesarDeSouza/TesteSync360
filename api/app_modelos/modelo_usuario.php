@@ -118,7 +118,7 @@
 				
 		function listar($where = ''){
 			
-			$sql = "select * from ts_usuarios ".$where;
+			$sql = "select * from ts_usuarios ".$where." order by nome_us";
 			$res = $this->select($sql);
 			$num_reg = $this->num_rows($res);
 			
